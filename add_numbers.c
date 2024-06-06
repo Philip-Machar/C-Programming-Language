@@ -4,8 +4,7 @@
 //This is the main C function where code execution begins 
 int main() {
     //variables to contain number 1 and number 2
-    int num1 = 10;
-    int num2 = 20;
+    int num1 = 10, num2 = 30;
 
     /*
     adding number 1 to number 2 and storing the 
