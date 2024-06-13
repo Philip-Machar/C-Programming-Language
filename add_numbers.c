@@ -1,3 +1,9 @@
+/*
+Author: Philip Machar
+Reg No: BSE-01-0047/2024
+Description: A program to calculate the sum of two numbers and display the results.
+*/
+
 //importing the standard input/output library
 #include <stdio.h>
 
