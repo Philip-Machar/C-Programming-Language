@@ -1,3 +1,9 @@
+/*
+Author: Philip Machar
+Reg No: BSE-01-0047/2024
+Description: A program to calculate simple interest.
+*/
+
 //importing the standard input/output library
 #include <stdio.h>
 
