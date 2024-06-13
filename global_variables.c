@@ -1,3 +1,9 @@
+/*
+Author: Philip Machar
+Reg No: BSE-01-0047/2024
+Description: Practising to understand global variables.
+*/
+
 //importing the standard input/output library
 #include <stdio.h>
 
