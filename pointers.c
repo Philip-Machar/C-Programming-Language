@@ -19,6 +19,7 @@ int main() {
     
     //Displaying the value of the address stored in the age pointer
     printf("The value in the pointer is: %d\n: ", *age_ptr);
+    
     //Displaying the address stored in the age pointer
     printf("The address stored in the pointer is: %p ", (void *)&age);
 
