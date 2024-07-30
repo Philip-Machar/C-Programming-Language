@@ -5,7 +5,7 @@ Date: July 26, 2024
 Description: A simple age pointer.
 */
 
-//importing the standard input/output library
+//Importing the standard input/output library
 #include <stdio.h>
 
 //This is the main C function where code execution begins
