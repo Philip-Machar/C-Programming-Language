@@ -14,7 +14,7 @@ int main() {
     //Defining age variable
     int age = 20;
 
-    //create age pointer and assigning age address to it
+    //Create age pointer and assigning age address to it
     int *age_ptr = &age;
     
     //Displaying the value of the address stored in the age pointer
